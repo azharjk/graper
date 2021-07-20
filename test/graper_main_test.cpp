@@ -4,19 +4,19 @@
 //  - add gtest
 //  - create test from https://dev.to/joelnet/challenge-parse-simple-and-complex-types-from-a-string-1hff
 
-TEST(GraperMainTest, ShouldReturnSingleElement) {
+TEST(GraperMainTest, ShouldReturnSingleSignature) {
 
 }
 
-TEST(GraperMainTest, ShouldReturnThreeElement) {
+TEST(GraperMainTest, ShouldReturnThreeSignature) {
 
 }
 
-TEST(GraperMainTest, Should_Return_Two_Element_But_Passing_Three_Element) {
+TEST(GraperMainTest, Should_Return_Two_Signature_But_Passing_Three_Signature) {
 
 }
 
-TEST(GraperMainTest, Should_Return_Three_Element_But_Passing_Four_Element) {
+TEST(GraperMainTest, Should_Return_Three_Signature_But_Passing_Four_Signature) {
 
 }
 
