@@ -6,6 +6,8 @@
 
 namespace graper {
 
+using VectorString = std::vector<std::string>;
+
 // TODO: create the implementation
 std::vector<std::string> ParseSignature(const std::string& s);
 
