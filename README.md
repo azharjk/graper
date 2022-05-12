@@ -1,6 +1,6 @@
 ## Solution
 
-There are 3 steps (shit implementation)
+There are 3 steps
 
 - Scan the string to list of token
 ```cpp
